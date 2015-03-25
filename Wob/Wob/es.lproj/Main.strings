@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0mr-Me-gB0"; */
+"0mr-Me-gB0.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Add Item"; ObjectID = "9ix-CH-QJk"; */
+"9ix-CH-QJk.title" = "Añadir Elemento";
+
+/* Class = "UINavigationItem"; title = "Add List"; ObjectID = "AQE-yw-Im7"; */
+"AQE-yw-Im7.title" = "Añadir Lista";
+
+/* Class = "UINavigationItem"; title = "Lists"; ObjectID = "Esq-mQ-tM2"; */
+"Esq-mQ-tM2.title" = "Listas";
+
+/* Class = "UILabel"; text = "Icon"; ObjectID = "HBl-U4-XEQ"; */
+"HBl-U4-XEQ.text" = "Icono";
+
+/* Class = "UILabel"; text = "√"; ObjectID = "HgG-p0-Da9"; */
+"HgG-p0-Da9.text" = "√";
+
+/* Class = "UINavigationItem"; title = "Choose Icon"; ObjectID = "Mlm-LU-yLx"; */
+"Mlm-LU-yLx.title" = "Elegir Icon";
+
+/* Class = "UITextField"; placeholder = "Name of the Item"; ObjectID = "R4y-n9-XkV"; */
+"R4y-n9-XkV.placeholder" = "Nombre del Artículo";
+
+/* Class = "UILabel"; text = "Due Date"; ObjectID = "S2Y-An-ItR"; */
+"S2Y-An-ItR.text" = "Fecha De Vencimiento";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Y3S-wp-02Y"; */
+"Y3S-wp-02Y.text" = "Título";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "bvP-Ov-gFK"; */
+"bvP-Ov-gFK.text" = "Detail";
+
+/* Class = "UITextField"; placeholder = "Name of the List"; ObjectID = "eeI-hu-1Sr"; */
+"eeI-hu-1Sr.placeholder" = "Nombre de la Lista";
+
+/* Class = "UILabel"; text = "Remind Me"; ObjectID = "htm-qP-Dci"; */
+"htm-qP-Dci.text" = "Acuérdate de Mí";
+
+/* Class = "UINavigationItem"; title = "Lists Name"; ObjectID = "jjU-8k-IqF"; */
+"jjU-8k-IqF.title" = "Listas Nombre";
