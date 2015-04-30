@@ -54,7 +54,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Wob/IconPickerViewController.m"
@@ -88,8 +88,8 @@
                   continueAfterRunningActions = "No"
                   symbolName = "-[IconPickerViewController delegate]"
                   moduleName = "Wob"
-                  urlString = "file:///Users/Becker/Desktop/Wob/Wob/IconPickerViewController.h"
-                  timestampString = "448976216.817932"
+                  urlString = "file:///Users/Becker/Documents/Wob/Wob/Wob/IconPickerViewController.h"
+                  timestampString = "448985035.259073"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "18"
@@ -102,13 +102,13 @@
                   continueAfterRunningActions = "No"
                   symbolName = "-[IconPickerViewController setDelegate:]"
                   moduleName = "Wob"
-                  urlString = "file:///Users/Becker/Desktop/Wob/Wob/IconPickerViewController.h"
-                  timestampString = "448976216.818057"
+                  urlString = "file:///Users/Becker/Documents/Wob/Wob/Wob/IconPickerViewController.h"
+                  timestampString = "448985035.259228"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "18"
                   endingLineNumber = "18"
-                  offsetFromSymbolStart = "28">
+                  offsetFromSymbolStart = "20">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -134,8 +134,8 @@
                   continueAfterRunningActions = "No"
                   symbolName = "-[IconPickerViewController delegate]"
                   moduleName = "Wob"
-                  urlString = "file:///Users/Becker/Desktop/Wob/Wob/IconPickerViewController.h"
-                  timestampString = "448976216.81868"
+                  urlString = "file:///Users/Becker/Documents/Wob/Wob/Wob/IconPickerViewController.h"
+                  timestampString = "448985035.260134"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "18"
@@ -148,13 +148,13 @@
                   continueAfterRunningActions = "No"
                   symbolName = "-[IconPickerViewController setDelegate:]"
                   moduleName = "Wob"
-                  urlString = "file:///Users/Becker/Desktop/Wob/Wob/IconPickerViewController.h"
-                  timestampString = "448976216.81879"
+                  urlString = "file:///Users/Becker/Documents/Wob/Wob/Wob/IconPickerViewController.h"
+                  timestampString = "448985035.260247"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "18"
                   endingLineNumber = "18"
-                  offsetFromSymbolStart = "28">
+                  offsetFromSymbolStart = "20">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -167,6 +167,70 @@
             continueAfterRunningActions = "No"
             scope = "0"
             stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wob/ListDetailViewController.m"
+            timestampString = "448981383.683251"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "-prepareForSegue:sender:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wob/ListDetailViewController.m"
+            timestampString = "448981406.427143"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "-iconPicker:didPickIcon:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wob/ListDetailViewController.m"
+            timestampString = "448981408.343119"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "-textField:shouldChangeCharactersInRange:replacementString:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wob/ListDetailViewController.m"
+            timestampString = "448981410.716449"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "-tableView:willSelectRowAtIndexPath:"
+            landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
